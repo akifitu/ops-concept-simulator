@@ -1,0 +1,4 @@
+id,title,objective,phase_count,handoff_count,duration_hours,active_system_count
+SCN-001,Wildfire perimeter reconnaissance,Map active fire edges and relay perimeter updates to the command team.,4,3,4.50,8
+SCN-002,Flood communications restoration,Restore communications awareness using orbital relay support and field autonomy assets.,4,3,5.50,9
+SCN-003,Post-earthquake rapid triage support,Provide initial situational awareness and route triage support priorities to field teams.,4,3,5.50,9

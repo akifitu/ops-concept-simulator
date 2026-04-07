@@ -1,0 +1,83 @@
+[
+  {
+    "id": "SCN-001",
+    "title": "Wildfire perimeter reconnaissance",
+    "objective": "Map active fire edges and relay perimeter updates to the command team.",
+    "phases": [
+      {
+        "name": "Mission planning",
+        "duration_hours": 1.0,
+        "active_systems": ["command-center", "trade-study-engine", "program-risk-board"]
+      },
+      {
+        "name": "Launch and climb",
+        "duration_hours": 0.5,
+        "active_systems": ["drone-fleet", "interface-control-toolkit"]
+      },
+      {
+        "name": "Perimeter mapping",
+        "duration_hours": 2.0,
+        "active_systems": ["drone-fleet", "satellite-relay", "systems-engineering-traceability-lab"]
+      },
+      {
+        "name": "Debrief and evidence review",
+        "duration_hours": 1.0,
+        "active_systems": ["verification-readiness-dashboard", "program-risk-board", "command-center"]
+      }
+    ]
+  },
+  {
+    "id": "SCN-002",
+    "title": "Flood communications restoration",
+    "objective": "Restore communications awareness using orbital relay support and field autonomy assets.",
+    "phases": [
+      {
+        "name": "Incident intake",
+        "duration_hours": 0.75,
+        "active_systems": ["command-center", "verification-readiness-dashboard"]
+      },
+      {
+        "name": "Relay asset retasking",
+        "duration_hours": 1.25,
+        "active_systems": ["satellite-power-budget-simulator", "trade-study-engine", "satellite-relay"]
+      },
+      {
+        "name": "Field network deployment",
+        "duration_hours": 2.5,
+        "active_systems": ["drone-fleet", "interface-control-toolkit", "ops-concept-simulator"]
+      },
+      {
+        "name": "Operational status review",
+        "duration_hours": 1.0,
+        "active_systems": ["program-risk-board", "verification-readiness-dashboard", "command-center"]
+      }
+    ]
+  },
+  {
+    "id": "SCN-003",
+    "title": "Post-earthquake rapid triage support",
+    "objective": "Provide initial situational awareness and route triage support priorities to field teams.",
+    "phases": [
+      {
+        "name": "Priority intake",
+        "duration_hours": 0.5,
+        "active_systems": ["command-center", "systems-engineering-traceability-lab"]
+      },
+      {
+        "name": "Autonomy route generation",
+        "duration_hours": 1.0,
+        "active_systems": ["trade-study-engine", "drone-fleet", "fmea-reliability-workbench"]
+      },
+      {
+        "name": "Mission execution",
+        "duration_hours": 3.0,
+        "active_systems": ["drone-fleet", "satellite-relay", "ops-concept-simulator"]
+      },
+      {
+        "name": "Recovery review",
+        "duration_hours": 1.0,
+        "active_systems": ["program-risk-board", "verification-readiness-dashboard", "command-center"]
+      }
+    ]
+  }
+]

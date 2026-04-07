@@ -1,0 +1,12 @@
+system,hours_active,scenario_count
+command-center,5.25,3
+drone-fleet,9.00,3
+fmea-reliability-workbench,1.00,1
+interface-control-toolkit,3.00,2
+ops-concept-simulator,5.50,2
+program-risk-board,4.00,3
+satellite-power-budget-simulator,1.25,1
+satellite-relay,6.25,3
+systems-engineering-traceability-lab,2.50,2
+trade-study-engine,3.25,3
+verification-readiness-dashboard,3.75,3
