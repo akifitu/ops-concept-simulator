@@ -36,4 +36,4 @@
 - [x] build an operational dataset
 - [x] implement the simulator and exporters
 - [x] add regression tests
-- [ ] publish the repository
+- [x] publish the repository
